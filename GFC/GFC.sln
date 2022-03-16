@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFC", "GFC\GFC.csproj", "{259725A8-DE73-4A35-913A-F705161A5DC8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GFC_Setup", "GFC_Setup\GFC_Setup.vdproj", "{106962F6-FEE0-497D-8E2E-A6C4E599DCE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259725A8-DE73-4A35-913A-F705161A5DC8}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{259725A8-DE73-4A35-913A-F705161A5DC8}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{259725A8-DE73-4A35-913A-F705161A5DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259725A8-DE73-4A35-913A-F705161A5DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106962F6-FEE0-497D-8E2E-A6C4E599DCE4}.Debug|Any CPU.ActiveCfg = Debug
+		{106962F6-FEE0-497D-8E2E-A6C4E599DCE4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFAF3D0-435F-458E-BBFD-29963736E058}
+	EndGlobalSection
+EndGlobal

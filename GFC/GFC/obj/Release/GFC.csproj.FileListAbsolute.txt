@@ -1,0 +1,17 @@
+C:\Users\105065932\source\repos\GFC\GFC\bin\Release\GFC.exe.config
+C:\Users\105065932\source\repos\GFC\GFC\bin\Release\GFC.exe.manifest
+C:\Users\105065932\source\repos\GFC\GFC\bin\Release\GFC.application
+C:\Users\105065932\source\repos\GFC\GFC\bin\Release\GFC.exe
+C:\Users\105065932\source\repos\GFC\GFC\bin\Release\GFC.pdb
+C:\Users\105065932\source\repos\GFC\GFC\bin\Release\OpcDaNet.dll
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.csproj.SuggestedBindingRedirects.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.MainForm.resources
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.Properties.Resources.resources
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.csproj.GenerateResource.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.csproj.CoreCompileInputs.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.exe.manifest
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.application
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.csproj.CopyComplete
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.exe
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.pdb
+C:\Users\105065932\source\repos\GFC\GFC\obj\Release\GFC.csproj.AssemblyReference.cache

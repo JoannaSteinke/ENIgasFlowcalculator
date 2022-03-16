@@ -1,0 +1,17 @@
+C:\Users\105065932\source\repos\GFC\GFC\bin\Debug\GFC.exe.config
+C:\Users\105065932\source\repos\GFC\GFC\bin\Debug\GFC.exe
+C:\Users\105065932\source\repos\GFC\GFC\bin\Debug\GFC.pdb
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.csproj.AssemblyReference.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.csproj.SuggestedBindingRedirects.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.MainForm.resources
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.Properties.Resources.resources
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.csproj.GenerateResource.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.csproj.CoreCompileInputs.cache
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.exe
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.pdb
+C:\Users\105065932\source\repos\GFC\GFC\bin\Debug\OpcDaNet.dll
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.csproj.CopyComplete
+C:\Users\105065932\source\repos\GFC\GFC\bin\Debug\GFC.exe.manifest
+C:\Users\105065932\source\repos\GFC\GFC\bin\Debug\GFC.application
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.exe.manifest
+C:\Users\105065932\source\repos\GFC\GFC\obj\Debug\GFC.application
